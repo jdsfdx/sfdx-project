@@ -7,7 +7,7 @@
 .localdevserver/
 
 #VS Code files
-.vscode
+.vscodecd 
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
